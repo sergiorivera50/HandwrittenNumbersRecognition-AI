@@ -23,4 +23,5 @@ Done!
 First you want to define the neural network by running the first cell.
 Then you can make use of all the other features by executing the cells you want to test.
 (Obviously if you run the Test cell before running the Training cell at least once you will find that the performance is extremely low)
-If you want to do your own performance research with the cell tool that I provide it's fine but I already did that so that you don't have to wait days of training. The plotting is inside the Performance Research folder.
+- If you want to do your own performance research with the cell tool that I provide it's fine but I already did that so that you don't have to wait days of training. The plotting is inside the Performance Research folder.
+- If you want to try and draw your own number for the AI you just have to edit the digit.png file and execute later the related cell.
