@@ -1,4 +1,4 @@
-# HandwrittenNumbersRecognition-AI (15.5 MB before extraction)
+# Digit-ML
 ## 3-layer Neural Network for recognizing handwritten numbers from 0 to 9.
 Main features (ordered from top to bottom cells):
 - 3-Layer Neural Network class
